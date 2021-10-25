@@ -1,2 +1,2 @@
 # HuynhBaHuy.github.io
-# For deploy website
+Only for deploy website
